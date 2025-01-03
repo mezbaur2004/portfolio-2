@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    
 }
 .navbar {
     position: sticky; /* Make the navbar fixed */
@@ -16,4 +17,7 @@ body {
     display: flex; /* Use flexbox for layout */
     justify-content: space-between; /* Space between items */
     align-items: center; /* Center items vertically */
+}
+.text-warning{
+    color: #41be84 !important;
 }

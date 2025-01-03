@@ -107,7 +107,7 @@
 }
 
 .name {
-    color: goldenrod;
+    color: rgb(65, 204, 128);
     font-size: larger;
     font-weight: bolder;
 }
@@ -119,7 +119,7 @@
 }
 
 .btn-contact {
-    background-color: #ffc107 !important; /* Yellow background */
+    background-color: #9eac98 !important; /* Yellow background */
     color: #212529 !important; /* Dark text */
     margin-right: 5px;
     margin-bottom: 10px;
@@ -132,7 +132,7 @@
 }
 
 .btn-contact:hover {
-    background-color: #b38f24 !important; /* Darker yellow on hover */
+    background-color: #8f9988 !important; /* Darker yellow on hover */
     opacity: 90% !important;
     color: #212529 !important;
     transform: scale(1.05) !important; /* Slightly scale on hover */
@@ -162,7 +162,7 @@
     padding: 15px 1px;
     margin-bottom: 50px;
     border-radius: 25px;
-    background-color: #007bff;
+    background-color: #4d7eb3;
     transform: scale(0.6);
     transition: 0.3s ease-in-out;
 }
@@ -175,7 +175,7 @@
 
 .st {
     text-decoration: none;
-    color: goldenrod;
+    color: rgb(148, 149, 148);
     font-size: x-large;
     font-weight: bolder;
 }

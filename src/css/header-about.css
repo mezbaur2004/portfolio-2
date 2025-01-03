@@ -1,5 +1,5 @@
 /* General Styles */
-body {
+/*body {
     background-color: #282c34;
     color: white;
     margin: 0;
@@ -231,9 +231,10 @@ body {
     margin-left: 20px;
     font-size: xx-large;
 }
+*/
 
 /* Media Queries for responsiveness */
-
+/* 
 @media (max-width: 768px) {
     .container {
         grid-template-columns: 1fr;
@@ -288,4 +289,4 @@ body {
     .navbar-toggler{
         margin-left: 00px;
     }
-}
+} */

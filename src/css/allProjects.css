@@ -20,7 +20,7 @@
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background-color: #ffc107;
+    background-color: #60b134;
     border-radius: 2px;
 }
 
@@ -55,7 +55,7 @@
 
 .full-project-item h3 {
     margin-bottom: 10px;
-    color: #ffc107;
+    color: #6fec45;
     font-size: 1.5rem;
 }
 

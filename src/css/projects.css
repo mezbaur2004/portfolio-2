@@ -21,7 +21,7 @@
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background-color: #ffc107;
+    background-color: #76e34e;
     border-radius: 2px;
 }
 
@@ -51,7 +51,7 @@
 
 .project-item h3 {
     margin-bottom: 10px;
-    color: #ffc107;
+    color: #6ed67d;
     font-size: 1.5rem;
 }
 
@@ -73,7 +73,7 @@
     color: #222222 !important;
 }
 .another:hover{
-    background-color: darkgoldenrod;
+    background-color: rgb(132, 193, 95);
 }
 
 

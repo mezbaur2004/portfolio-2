@@ -7,7 +7,7 @@
     font-size: 2.5rem;
     text-align: center;
     margin-bottom: 30px;
-    color: #ffc107; /* Yellow for warning */
+    color: #9dec57; /* Yellow for warning */
 }
 
 .social-links {
@@ -28,5 +28,5 @@
 }
 
 .social-links a:hover {
-    color: #ffc107; /* Yellow on hover */
+    color: #8dd74d; /* Yellow on hover */
 }

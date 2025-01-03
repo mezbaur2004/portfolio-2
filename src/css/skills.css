@@ -20,7 +20,7 @@
     transform: translateX(-50%);
     width: 80px; /* Width of the line */
     height: 4px; /* Height of the line */
-    background-color: #ffc107; /* Line color */
+    background-color: #74dc86; /* Line color */
     border-radius: 2px; /* Rounded edges for the line */
 }
 
@@ -43,7 +43,7 @@
 
 .skill-item h3 {
     margin-bottom: 10px;
-    color: #ffc107; /* Section title color */
+    color: #abd072; /* Section title color */
     font-size: 1.5rem; /* Slightly larger font size */
 }
 
