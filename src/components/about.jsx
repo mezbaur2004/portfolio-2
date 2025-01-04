@@ -24,7 +24,7 @@ const About = () => {
         <div className="container">
           <div className="left-side">
             <h2 className="section-title text-warning">
-              Hi, I&apos;m <span className="name">Farzana Akhter</span>
+              Hi, I&apos;m <span className="name">Farzana Akter</span>
             </h2>
             <h3 className="description-title">FrontEnd Developer</h3>
             <SlideInText />
@@ -56,7 +56,7 @@ const About = () => {
             className="section-description text-light"
             dangerouslySetInnerHTML={{
               __html:
-                "<p>Hello, I'm Farzana Akhter, a passionate FrontEnd developer and a student in CST. My journey in technology has fueled my passion for building fully responsive and interactive web applications.</p><br/> <p>My expertise extends to front-end technologies like HTML, CSS, and JavaScript(React), with a keen eye for design using frameworks like Bootstrap. </p><br/><p>With a strong foundation in both computer science and web development, I am eager to contribute my skills to innovative and user-centric digital experiences. Let's build something amazing together!</p>",
+                "<p>Hello, I'm Farzana Akter, a passionate FrontEnd developer and a student in CST. My journey in technology has fueled my passion for building fully responsive and interactive web applications.</p><br/> <p>My expertise extends to front-end technologies like HTML, CSS, and JavaScript(React), with a keen eye for design using frameworks like Bootstrap. </p><br/><p>With a strong foundation in both computer science and web development, I am eager to contribute my skills to innovative and user-centric digital experiences. Let's build something amazing together!</p>",
             }}
             // aboutDescription
           />
